@@ -46,4 +46,4 @@ En *gras*, ceux où je suis sur d'aller; pour les autres, on verra qui se joint 
 
 |===
 
-Il y a aussi Slayer qui vient le 24 juin mais on les a vu il y a quelques mois ils n'ont rien sorti entre-temps donc je vais faire l'impasse.
+NOTE: Il y a aussi Slayer qui vient le 24 juin mais on les a vu il y a quelques mois ils n'ont rien sorti entre-temps donc je vais faire l'impasse.
