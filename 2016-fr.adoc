@@ -1,5 +1,4 @@
 = Metal Agenda
-:icons: font
 
 == 2016
 
@@ -13,7 +12,7 @@ En *gras*, ceux où je suis sur d'aller; pour les autres, on verra qui se joint 
 |*Ensiferum, Fleshgod Apocalypse, Heidra*
 |Kulturfabrik (LUX)
 |Epic Folk Metal, Symphonic Death, Viking/Folk
-|1 icon:tags[]
+|1
 
 |Dim 24/04/2016
 |*ETHS, Tess*
